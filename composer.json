@@ -1,0 +1,13 @@
+{
+    "name": "pechi/recuperacion_1",
+    "description": "recuperacion practica 1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Recuperacion1\\": "src/"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
